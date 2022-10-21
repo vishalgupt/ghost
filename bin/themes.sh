@@ -1,7 +1,7 @@
 themes=(
 	casper
 	lyra
-	vishal
+	test
 )
 
 mkdir -p content/themes/

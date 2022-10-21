@@ -8983,6 +8983,10 @@ terser@^5.9.0:
     source-map "~0.8.0-beta.0"
     source-map-support "~0.5.20"
 
+"test@github:vishalgupt/mywebsite#master":
+  version "0.0.0"
+  resolved "https://codeload.github.com/vishalgupt/mywebsite/tar.gz/3c1e39cf3ed52b795e2f6aa4c4d5ea4e7ca75589"
+
 thunkify@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/thunkify/-/thunkify-2.1.2.tgz#faa0e9d230c51acc95ca13a361ac05ca7e04553d"
